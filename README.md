@@ -1,7 +1,6 @@
 <param ve-config 
        title=" Rumdul រំដួល (Sphaerocoryne affinis)"
-       author="Ashley Thuthao Keng Dam, Ph.D."
-author= "Traduction française par Iona Villermian"  
+       author="Ashley Thuthao Keng Dam, Ph.D. | Traduction française par Iona Villermian"  
  banner="https://upload.wikimedia.org/wikipedia/commons/2/20/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Malowid%C5%82a_przedstawiaj%C4%85ce_sceny_z_Reamker_%2827%29.jpg" 
        layout="vertical">
 
